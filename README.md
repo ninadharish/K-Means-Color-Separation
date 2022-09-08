@@ -1,4 +1,4 @@
-# K-Means Color Separation
+# K-Means Color Image Separation
 
 ## Description
 
