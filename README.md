@@ -50,12 +50,12 @@ Given an image of a traffic signal, this project attempts to separate the image 
 
 * Clone the repository into any folder of your choice.
 ```
-git clone https://github.com/ninadharish/K-Means-Color-Separation.git
+git clone https://github.com/ninadharish/K-Means-Image-Color-Separation.git
 ```
 
 * Open the repository and navigate to the `src` folder.
 ```
-cd K-Means-Color-Separation/src
+cd K-Means-Image-Color-Separation/src
 ```
 
 * Run the program.
